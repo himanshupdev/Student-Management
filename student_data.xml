@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <roll_no>101</roll_no>
+        <name>Amit Sharma</name>
+        <course>B.Tech CSE</course>
+        <marks>85</marks>
+    </student>
+    <student>
+        <roll_no>102</roll_no>
+        <name>Priya Verma</name>
+        <course>B.Tech IT</course>
+        <marks>78</marks>
+    </student>
+    <student>
+        <roll_no>103</roll_no>
+        <name>Rahul Singh</name>
+        <course>B.Sc Physics</course>
+        <marks>92</marks>
+    </student>
+    <student>
+        <roll_no>104</roll_no>
+        <name>Sneha Patel</name>
+        <course>B.Com</course>
+        <marks>67</marks>
+    </student>
+</students>
